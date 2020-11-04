@@ -1,1 +1,0 @@
-import{g as t,f as e}from"./common-36802688.js";const r='{"title":"Home","frontmatter":{"home":true},"relativePath":"index.md","lastUpdated":1604503749542.9575}';var o={};o.render=function(r,o,a,m,n,d){return e(),t("div")};export default o;export{r as __pageData};
