@@ -1,0 +1,1 @@
+import{g as p,f as t,B as e}from"./common-36802688.js";const r='{"title":"在梦里","frontmatter":{"title":"在梦里","date":"2020-10-18T00:00:00.000Z"},"relativePath":"posts/in-dream.md","lastUpdated":1604502823166.1775}';var a={};const _=e("",11);a.render=function(e,r,a,o,n,s){return t(),p("div",null,[_])};export default a;export{r as __pageData};
