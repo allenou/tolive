@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "vitepress": "^0.7.2"
+  },
+  "scripts": {
+    "serve": "npx vitepress",
+    "build": "npx vitepress build"
+  }
+}

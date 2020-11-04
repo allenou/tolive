@@ -1,0 +1,26 @@
+.theme {
+  --border-color         : #34495e;
+  --header-height        : 1.6rem;
+  --sidebar-width        : 16.4rem;
+  --text-color           : #bdc3c7;
+  --text-color-light     : #ff5252;
+  --code-background-color: transparent;
+  --tip-background-color : #34495e;
+  --accent-color         : #3498db;
+  --background-color     : #253e5c;
+  --title-color          : #ccae62
+    /*$accentColor = #3498db
+$textColor = #bdc3c7;
+$bgColor = #2c3e50
+$borderColor = #34495e
+$codeBgColor = transparent
+$codeBorderColor = #34495e
+$arrowBgColor = #ccc
+$badgeTipColor = #42b983
+$badgeWarningColor = darken(#ffe564, 35%)
+$badgeErrorColor = #DA5961 */
+    /* responsive breakpoints */
+    /* --mq-narrow       : 959px; */
+    /* --mq-mobile       : 719px; */
+    /* --mq-mobile-narrow: 419px; */
+}
