@@ -18,8 +18,10 @@ jobs:
     
     - name: Move and make
       run: |
-        mv favicon.ico .nojekyll .vitepress/dist/
-        cd .vitepress/dist/ && echo 'tolive.toyou.xyz' > CNAME
+        mv favicon.ico .vitepress/dist/
+        cd .vitepress/dist/
+        touch .nojekyll
+        echo 'tolive.toyou.xyz' > CNAME
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3

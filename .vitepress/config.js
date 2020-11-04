@@ -1,6 +1,6 @@
 module.exports = {
-    title: 'Allen‘s Mind',
-    description: 'Keep thinking till you die',
+    title: 'Allen Alive',
+    description: 'To live to think',
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ]
