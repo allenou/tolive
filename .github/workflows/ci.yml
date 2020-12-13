@@ -14,7 +14,9 @@ jobs:
         persist-credentials: false
 
     - name: Build
-      run: npm ci && npm run build  
+      run: |
+        yarn --frozen-lockfile
+        yarn build  
     
     - name: Move and make
       run: |
